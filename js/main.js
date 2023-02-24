@@ -1,2 +1,2 @@
 
-console.warn('secondary init');
+alert('hello');
